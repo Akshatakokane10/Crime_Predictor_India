@@ -85,14 +85,17 @@ Akshata Kokane
 🧠 AI/ML Enthusiast | B.E. Information Technology
 
 
-ScreenShots
+## 🖼️ Screenshots
 
-![Screenshot 2025-07-10 002808](https://github.com/user-attachments/assets/7644a8cb-d0f2-4b21-837c-82950bdba999)
+### 🔹 Violent Crime Example
+![Violent Crime](screenshots/violent_crime.png)
 
-![Screenshot 2025-07-10 002618](https://github.com/user-attachments/assets/8e8656e4-e5c9-4be8-b09e-df3d41d1b350)
+### 🔸 Traffic Violation Example
+![Traffic Violation](screenshots/traffic_violations.png)
 
-![Screenshot 2025-07-10 002528](https://github.com/user-attachments/assets/84801d47-e0d0-403c-ac47-4705cde77916)
+### 🔥 Fire Accident Prediction
+![Fire Accident](screenshots/fire_accident.png)
 
-![Screenshot 2025-07-10 002450](https://github.com/user-attachments/assets/738c88a7-5de8-4e2b-96d4-546fa2784c8b)
-
+### 🔹 Another Violent Crime Example
+![Violent Crime 2](screenshots/violent_crime_2.png)
 
