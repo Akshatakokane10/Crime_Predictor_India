@@ -88,14 +88,14 @@ Akshata Kokane
 ## 🖼️ Screenshots
 
 ### 🔹 Violent Crime Example
-![Violent Crime](screenshots/violent_crime.png)
+![Violent Crime](https://github.com/Akshatakokane10/Crime_Predictor_India/blob/7c34edce3771fe47e61d3d9c5e9c5b97c16f2741/screenshots/violent_crime.png)
 
 ### 🔸 Traffic Violation Example
-![Traffic Violation](screenshots/traffic_violations.png)
+![Traffic Violation](https://github.com/Akshatakokane10/Crime_Predictor_India/blob/7c34edce3771fe47e61d3d9c5e9c5b97c16f2741/screenshots/traffic_violation.png)
 
 ### 🔥 Fire Accident Prediction
-![Fire Accident](screenshots/fire_accident.png)
+![Fire Accident](https://github.com/Akshatakokane10/Crime_Predictor_India/blob/7c34edce3771fe47e61d3d9c5e9c5b97c16f2741/screenshots/fire_accident.png)
 
 ### 🔹 Another Violent Crime Example
-![Violent Crime 2](screenshots/violent_crime_2.png)
+![Violent Crime 2](https://github.com/Akshatakokane10/Crime_Predictor_India/blob/7c34edce3771fe47e61d3d9c5e9c5b97c16f2741/screenshots/violent_crime2.png)
 
