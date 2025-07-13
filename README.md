@@ -91,11 +91,12 @@ Here are some visual examples from the Crime Predictor India project:
 
 ### 🔹 Violent Crime Example
 ![Violent Crime](https://github.com/Akshatakokane10/Crime_Predictor_India/blob/master/screenshots/violent_crime.png?raw=true)
+
 ### 🔸 Traffic Violation Example
-![Traffic Violation](https://raw.githubusercontent.com/Akshatakokane10/Crime_Predictor_India/master/screenshots/traffic_violation.png)
+![Traffic Violation](https://github.com/Akshatakokane10/Crime_Predictor_India/blob/master/screenshots/traffic_violation.png?raw=true)
 
 ### 🔥 Fire Accident Prediction
-![Fire Accident](https://raw.githubusercontent.com/Akshatakokane10/Crime_Predictor_India/master/screenshots/fire_accident.png)
+![Fire Accident](https://github.com/Akshatakokane10/Crime_Predictor_India/blob/master/screenshots/fire_accident.png?raw=true)
 
 ### 🔹 Another Violent Crime Example
-![Violent Crime 2](https://raw.githubusercontent.com/Akshatakokane10/Crime_Predictor_India/master/screenshots/violent_crime2.png)
+![Violent Crime 2](https://github.com/Akshatakokane10/Crime_Predictor_India/blob/master/screenshots/violent_crime2.png?raw=true)
