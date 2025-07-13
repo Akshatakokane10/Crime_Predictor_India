@@ -100,5 +100,3 @@ Here are some visual examples from the Crime Predictor India project:
 
 ### 🔹 Another Violent Crime Example
 ![Violent Crime 2](https://raw.githubusercontent.com/Akshatakokane10/Crime_Predictor_India/master/screenshots/violent_crime2.png)
-
-
