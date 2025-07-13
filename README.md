@@ -88,6 +88,10 @@ Akshata Kokane
 ## 🖼️ Screenshots
 
 Here are some visual examples from the Crime Predictor India project:
+<img width="985" height="817" alt="violent_crime" src="https://github.com/user-attachments/assets/6574bcdf-f4b6-49a3-893b-0d35583bb222" />
+
+
+
 
 ### 🔹 Violent Crime Example
 ![Violent Crime](https://github.com/Akshatakokane10/Crime_Predictor_India/blob/master/screenshots/violent_crime.png?raw=true)
