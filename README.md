@@ -1,3 +1,4 @@
+https://crime-predictor-india--akshatakokane23.replit.app
 # 🕵️‍♀️ Indian Crime Domain Predictor
 
 This project is a simple yet powerful AI/ML web app that predicts the **crime domain** (e.g., Violent Crime, Other Crime, Traffic Fatality, etc.) based on a short crime description. Built using **Python**, **Scikit-learn**, and **Streamlit**.
